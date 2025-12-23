@@ -1,0 +1,18 @@
+Project Title:
+Student Management Database using SQL
+
+Description:
+This project demonstrates the use of SQL to create and analyze a student management system. It involves database creation, data insertion, and analytical queries to evaluate student performance using aggregation, filtering, and grouping techniques.
+
+Applications:
+
+School performance analysis
+
+Student result dashboards
+
+Educational analytics
+
+Beginner SQL portfolio project
+
+Conclusion:
+This project helped in understanding real-world SQL usage for data analysis and strengthened concepts like SELECT, WHERE, GROUP BY, AVG, and UPDATE.
